@@ -34,3 +34,8 @@ Este proyecto adhiere a [Semantic Versioning](https://semver.org/).
 
 ### Changed
 - Revisión de código módulo redes por Juan Pablo
+
+## [1.0.3] - 2026-05-29
+
+### Changed
+- Segunda revisión de código módulo redes por Juan Pablo
